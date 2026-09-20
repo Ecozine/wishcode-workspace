@@ -7,11 +7,19 @@ Wishcode is designed as a controlled workspace where AI can analyze, reason, and
 **The model is an agent of suggestion, never the arbiter of state.**
 
 ```text
-AI proposes.
-DLX-MCP evaluates.
-Wishcode governs.
-MCP executes.
-Provenance records.
+[ AI Proposes ]
+       │
+       ▼
+[ DLX-MCP Evaluates ]
+       │
+       ▼
+[ Wishcode Governs ]
+       │
+       ▼
+[ MCP Executes ]
+       │
+       ▼
+[ Provenance Records ]
 ```
 
 **Evaluation Does Not Equal Authorization.**
