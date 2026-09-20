@@ -11,7 +11,7 @@ AI proposes.
 
 DLX-MCP evaluates.
 
-Wishcode authorizes.
+Wishcode governs.
 
 MCP executes.
 
