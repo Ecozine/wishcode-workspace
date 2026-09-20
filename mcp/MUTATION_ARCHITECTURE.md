@@ -1,4 +1,4 @@
-# Wishcode Mutation Architecture
+# Wishcode Workspace Mutation Architecture
 
 ## Purpose
 
