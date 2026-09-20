@@ -7,15 +7,15 @@ Wishcode is designed as a controlled workspace where AI can analyze, reason, and
 **The model is an agent of suggestion, never the arbiter of state.**
 
 
-`AI proposes.
+AI proposes.
 
-`DLX-MCP evaluates.
+DLX-MCP evaluates.
 
-`Wishcode authorizes.
+Wishcode authorizes.
 
-`MCP executes.
+MCP executes.
 
-`Provenance records.
+Provenance records.
 
 
 Built on System-of-Systems principles, Wishcode connects heterogeneous infrastructure through controlled boundaries while preserving organizational sovereignty, decision context, and execution accountability.
