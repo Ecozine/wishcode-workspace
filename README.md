@@ -28,3 +28,11 @@ Wishcode is designed as a controlled workspace where AI can analyze, reason, and
 Built on System-of-Systems principles, Wishcode connects heterogeneous infrastructure through controlled boundaries while preserving organizational sovereignty, decision context, and execution accountability.
 
 **Multiverse DNA: Δ42:∞BΔ**
+
+## Evidence Verification
+
+Systemic Evidence Verification (SEV) establishes a verification layer
+between system telemetry and AI-generated systemic narratives.
+
+See:
+docs/systemic-evidence-verification.md
